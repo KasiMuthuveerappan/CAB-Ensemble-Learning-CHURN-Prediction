@@ -123,3 +123,43 @@ This project incorporates the following key data science and machine learning te
 ### 😀**Conclusion**😀
 
 The analysis underscores key factors influencing driver churn, including performance metrics, age, income levels, and regional disparities. By addressing these areas through tailored training, incentive structures, and enhanced support mechanisms, Ola can significantly improve driver retention, operational efficiency, and long-term profitability.
+
+-----------
+
+## 🛠️ Tech Stack
+
+```
+Python 3.x  |  Pandas  |  NumPy  |  Matplotlib  |  Seaborn
+Scikit-learn (Random Forest, RandomizedSearchCV, SMOTE, KNN Imputer, Label Encoder)
+XGBoost
+imbalanced-learn (SMOTE)
+```
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/KasiMuthuveerappan/<repo-name>
+
+# Install dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
+
+# Run the notebook
+jupyter notebook "OLA_Ensemble_Learning-k-MASTERCOPY.ipynb"
+```
+
+---
+
+## 📁 Repository Structure
+
+```
+├── OLA_Ensemble_Learning-k-MASTERCOPY.ipynb    # Main analysis notebook
+├── ola_driver_data.csv                          # Driver dataset
+└── README.md
+```
+
+---
+
+*Analysed by **Kasi Muthuveerappan** | [LinkedIn](https://www.linkedin.com/in/kasimuthuveerappan/) | [Portfolio](https://kasiportfolio.carrd.co/)*
